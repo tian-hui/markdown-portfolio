@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* my favourite books :blush:
+  * Foundamentals of Ethics by Russ Shafer-Landau
+  * Norwegian Wood by Haruki Murakami
